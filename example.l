@@ -12,7 +12,7 @@ int word_count = 0;
 int main() {
     yylex();
     printf("end");
-    printf("Total words: %d\n", word_count);
+    printf("Total  apurva words: %d\n", word_count);
     return 0;
 }
 
